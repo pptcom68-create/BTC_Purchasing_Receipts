@@ -1,0 +1,7 @@
+{
+  "name": "BTC Purchasing Document & PO Tracking System",
+  "description": "ระบบงานเอกสารฝ่ายจัดซื้อออนไลน์ ติดตามใบสั่งซื้อ (PO) ใบส่งของ ใบกำกับภาษี ใบชั่ง และระบบจับคู่เอกสารจัดซื้อ บริษัท บุรีรัมย์ธงชัยก่อสร้าง จำกัด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
